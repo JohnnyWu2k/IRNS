@@ -1,0 +1,2 @@
+# IRNS
+ inrational number searching
