@@ -1,3 +1,3 @@
-# IRNS
- inrational number searching
+#  Inrational number searching
+ 
 ## Click start.bat for the first time
